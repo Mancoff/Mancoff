@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mancoff
-- 👀 I’m interested in depelop
-- 🌱 I’m currently learning Javascript
+- 👋 Hi, I’m Diego Cancino
+- 👀 I’m interested in Python and Data analysis
+  
 
 
 
